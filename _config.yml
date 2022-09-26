@@ -1,9 +1,9 @@
 # Site settings
 title: UGSAS
 description: 'UGSAS History Timeline'
-domain: ugsas.github.io
-url: https://ugsas.github.io/
-baseurl: ugsas
+
+url: "https://ugsas.github.io/"
+baseurl: ""
 profilepic: 'images/ugsas.png'
 bkimage: 'images/background.png'
 
