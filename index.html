@@ -1,0 +1,50 @@
+---
+layout: default
+robots: noindex
+---
+
+
+  <ul class="timeline">
+    
+    {% for project in site.data.events %}
+      <li class="timeline-inverted">
+        
+        <div class="timeline-image">
+          <div style="
+          margin: auto;
+          position:relative;
+          top:-5%;
+          line-height: 200%;
+          ">
+            <h2>{{ project.date }}</h2>
+          </div>
+        </div>
+
+
+        <div class="timeline-panel">
+          
+          <div class="timeline-body">
+            
+            <strong>{{ project.title }}</strong>
+            <br>
+            <br>
+
+            
+            <div>
+              {{ project.desc }}
+            </div>
+            
+            <div style="float:center;">
+              {% if project.img %}
+        
+                <img class="img-me" src="{{ project.img | prepend: site.baseurl }}" >
+        
+              {% endif %} 
+            </div>              
+          
+        </div>
+      </li>
+    
+    {% endfor %}
+  
+  </ul>
