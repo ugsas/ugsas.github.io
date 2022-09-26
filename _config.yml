@@ -1,0 +1,34 @@
+# Site settings
+title: UGSAS
+description: 'UGSAS History Timeline'
+domain: ugsas.github.io
+url: https://ugsas.github.io/
+baseurl: ugsas
+profilepic: 'images/ugsas.png'
+bkimage: 'images/background.png'
+
+author:
+  name: 'UGSAS'
+  email: ugsashistoryproject@gmail.com
+  twitter_username: ugsas1941
+  facebook_username: GlasgowAndStrathclydeUAS
+  
+   
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
