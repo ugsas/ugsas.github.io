@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Meet 86 Cse"
+date: 2023-01-15 10:17:11 +0000
+categories: jekyll update
+author: OCdt Emma Lawson
+background: /img/background.jpg
+---
+
+### Get to know the latest UGSAS recruits on 86 Cse...
+
+<br>
+
+<img src="/img/CalumMacleod.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Calum Macleod (Aeronautical Engineering)**
+
+|||||||||||| **Harrison Aslett (History)** |||||||||||| <img src="/img/HarrisonAslett.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/IslaBuchanan.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Isla Buchanan (Geography)**
+
+|||||| **Jacob Currie (Aeronautical Engineering)** |||||||||||| <img src="/img/JacobCurrie.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/JasmineDoubleday.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Jasmine Doubleday (Medicine)**
+
+|||||| **Kara Moffat (Physics with Astrophysics)** |||||||||||| <img src="/img/KaraMoffat.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/MadelineCampbell.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Madeline Campbell (Common Law with Spanish)**
+
+|||||| **Magnus Ashworth (Aeromechanical Engineering)** |||||||||||| <img src="/img/MagnusAshworth.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/RachelLees.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Rachel Lees (Accountancy with International Accounting)**
+
+|||||| **Roshan Tomy (Mechanical Engineering)** |||||||||||| <img src="/img/RoshanTomy.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/RossSpeers.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Ross Speers (Aerospace Systems)**
+
+|||||| **Scott Knox (Mechanical Engineering with Aeronautics)** |||||||||||| <img src="/img/ScottKnox.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/SebastianMartin.jpg"  style="display: block; margin-left: auto; margin-right: auto;"> |||||||||||| **Sebastian Martin (Law)**
+
+|||||| **Shaun Wiseman (Aeronautical Engineering)** |||||||||||| <img src="/img/ShaunWiseman.jpg"  style="display: block; margin-left: auto; margin-right: auto;">
+
+<img src="/img/StuartYao.jpeg"  style="display: block; margin-left: auto; margin-right: auto; width:30%; height: 40%;"> |||||| **Stuart Yao (Aerospace Engineering)**
