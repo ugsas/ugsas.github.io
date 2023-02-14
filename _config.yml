@@ -31,7 +31,8 @@ facebook_username: GlasgowAndStrathclydeUAS
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
