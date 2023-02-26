@@ -47,7 +47,7 @@ This is not indicative of what other people should be doing, but I tend to train
 
 I try to do yoga most days because I'm getting old. I'm 40 in a week so my body hurts more and more if I don’t do yoga. Yoga is an amazing thing to keep everything working as it should from a muscular point of view so I would massively advocate doing a stretching and strengthening programme.
 
-I attempt to do high volume training and so multiple working sets on a muscle group. About 20 working sets a week and going from strength all the way into hypertrophy within the same session. Strength exercises would be a much higher load with a lower number of repetitions between three and five, over multiple sets. Hypertrophy would be muscle building with eight to twelve repetitions and less rest. So strength for chest, for example, would be the bench press then I'd look at doing maybe cable flies or incline under pressure dumbbell presses.
+I attempt to do high volume training and so multiple working sets on a muscle group. About 20 working sets a week and going from strength all the way into hypertrophy within the same session. Strength exercises would be a much higher load with a lower number of repetitions between three and five, over multiple sets. Hypertrophy would be muscle building with eight to twelve repetitions and less rest. So strength for chest, for example, would be the bench press. Then I'd look at doing maybe cable flies or incline under pressure dumbbell presses.
 
 #### Do you have a quote to leave us with?
 
