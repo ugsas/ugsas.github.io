@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goodbye to Sgt Barnes"
-date: 2023-03-04 12:17:11 +0000
+date: 2023-03-03 12:17:11 +0000
 categories: jekyll update
 author: OCdt Hannah Bruce
 background: /img/background.jpg

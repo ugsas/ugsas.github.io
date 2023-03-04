@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Editor's Note"
-date: 2023-03-04 17:17:11 +0000
+date: 2023-03-03 17:17:11 +0000
 categories: jekyll update
 author: OCdt David O'Neill
 background: /img/background.jpg
