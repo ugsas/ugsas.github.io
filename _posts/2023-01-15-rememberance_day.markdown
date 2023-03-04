@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remembrance Day"
-date: 2023-01-15 14:17:11 +0000
+date: 2023-03-04 14:17:11 +0000
 categories: jekyll update
 author: OCdt Brogan Milne
 background: /img/background.jpg

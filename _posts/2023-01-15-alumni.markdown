@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alumni News"
-date: 2023-01-15 17:17:11 +0000
+date: 2023-03-04 17:17:11 +0000
 categories: jekyll update
 author: OCdt Kira Linich
 background: /img/background.jpg
